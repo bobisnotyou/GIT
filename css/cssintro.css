@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'cubanoregular';
+    src: url('/css/cubano-regular-webfont.woff2') format('woff2'),
+         url('/css/cubano-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 h1 {
-    font-family: sans-serif;
-    color: fuchsia;
+    font-family:'cubanoregular'
 }
 #boxy {
     height: 100px;
@@ -10,4 +17,16 @@ h1 {
     margin: 50px;
     padding: 60px;
     font-family: cursive;
+}
+#wearenumberone
+    height:100px;
+    width: 600px
+
+}
+#wearenumberone {
+    overflow: hidden;
+    height: 100px;
+    width; 600px;
+    margin: 3px;
+    padding: 20px;
 }
