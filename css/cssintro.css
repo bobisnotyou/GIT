@@ -18,9 +18,10 @@ h1 {
     padding: 60px;
     font-family: cursive;
 }
-#wearenumberone
+#wearenumberone{
     height:100px;
-    width: 600px
+    width: 600px;
+    background-color: black;
 
 }
 #wearenumberone {
@@ -30,3 +31,4 @@ h1 {
     margin: 3px;
     padding: 20px;
 }
+
